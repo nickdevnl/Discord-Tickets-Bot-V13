@@ -1,0 +1,30 @@
+{
+  "_comment1": "info",
+  "clientId": "clientid",
+  "token": "token",
+
+  "_comment2": "ticket categories ids",
+  "parentOpened": "00000000000000000",
+  "parentCat1": "00000000000000000",
+  "parentCat2": "00000000000000000",
+  "parentCat3": "00000000000000000",
+  "parentCat4": "00000000000000000",
+
+  "_comment3": "ticket categories names",
+  "catName1": "test 1",
+  "catName2": "test 2",
+  "catName3": "test 3",
+  "catName4": "test 4",
+
+  "_comment4": "ID of support role",
+  "roleSupport": "00000000000000000",
+
+  "_comment5": "ID of channel for ticket logs",
+  "logsTicket": "00000000000000000",
+
+  "_comment6": "Channel where tickets will be created",
+  "openATicketChannel": "00000000000000000",
+
+  "_comment7": "text that will be shown at the bottem of the embed.",
+  "footerText": "Support"
+}
